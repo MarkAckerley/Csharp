@@ -1,0 +1,33 @@
+﻿<Page x:Class="PropertiesProjectBrowserOnOff.NewForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PropertiesProjectBrowserOnOff"
+      mc:Ignorable="d" 
+      MinHeight="395" MinWidth="20" Height="600" Width="20"
+      Title="Page1">
+
+    <Grid Background="HotPink">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button x:Name="BExternalMethod1" Click="BExternalMethodPropertiesOnOff_Click" Grid.Row="0" BorderBrush="#FFABADB3" Background="{x:Null}">
+            <Grid HorizontalAlignment="Stretch">
+                <TextBlock Text="Properties" HorizontalAlignment="Stretch" VerticalAlignment="Center"></TextBlock>
+            </Grid>
+            <Button.LayoutTransform>
+                <RotateTransform Angle="90" />
+            </Button.LayoutTransform>
+        </Button>
+        <Button x:Name="BExternalMethod2" Click="BExternalMethodProjectBrowserOnOff_Click" Grid.Row="1" BorderBrush="#FFABADB3" Background="{x:Null}">
+            <Grid HorizontalAlignment="Stretch">
+                <TextBlock Text="Project Browser" HorizontalAlignment="Stretch" VerticalAlignment="Center"></TextBlock>
+            </Grid>
+            <Button.LayoutTransform>
+                <RotateTransform Angle="90" />
+            </Button.LayoutTransform>
+        </Button>
+    </Grid>
+</Page>

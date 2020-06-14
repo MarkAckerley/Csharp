@@ -1,0 +1,25 @@
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.csprojAssemblyReference.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\Form.g.cs
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff_MarkupCompile.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff_MarkupCompile.lref
+C:\ProgramData\Autodesk\Revit\Addins\2021\PropertiesProjectBrowserOnOff.dll
+C:\ProgramData\Autodesk\Revit\Addins\2021\PropertiesProjectBrowserOnOff.pdb
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\Form.baml
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.g.resources
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.Properties.Resources.resources
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.csproj.GenerateResource.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.csproj.CoreCompileInputs.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.dll
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.pdb
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.csprojAssemblyReference.cache
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\Form.g.cs
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff_MarkupCompile.cache
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff_MarkupCompile.lref
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\Form.baml
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.g.resources
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.Properties.Resources.resources
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.csproj.GenerateResource.cache
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.csproj.CoreCompileInputs.cache
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.dll
+C:\Me\BIM\C#\PropertiesProjectBrowserOnOff\PropertiesProjectBrowserOnOff\obj\Debug\PropertiesProjectBrowserOnOff.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2021\PropertiesProjectBrowserOnOff.addin

@@ -1,0 +1,141 @@
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csprojAssemblyReference.cache
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.g.cs
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.cache
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.lref
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RvtTestingCS_WPF.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RvtTestingCS_WPF.pdb
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAPIUI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\PersistenceDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\UtilityAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\APIDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\GraphicsAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\GeomUtilAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\FamilyDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\DetailDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\HostObjDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\SiteDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\SculptingDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\StructuralDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\InterfaceAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RebarDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\MassingDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\DPartDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\NumberingDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\StairRampDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\MaterialDBAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\IntfATFAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\DBManagedServices.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\AdWindows.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAddInUtility.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\APIInterop.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\UIFramework.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\AddInManager.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitUIAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\DesktopMFCAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\APIUIAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitMFCAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\EssentialsUIAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\DetailUIAPI.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\UIFrameworkServices.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAPI.xml
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAPIUI.xml
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\RevitAddInUtility.xml
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.baml
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.g.resources
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.Properties.Resources.resources
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.GenerateResource.cache
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.CopyComplete
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.dll
+C:\Users\Richa\source\repos\Revit\2021\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.pdb
+C:\Users\mark_\Desktop\RvtTestingCS_WPF.addin
+C:\Users\mark_\Desktop\RvtTestingCS_WPF.dll
+C:\Users\mark_\Desktop\RvtTestingCS_WPF.pdb
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csprojAssemblyReference.cache
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.g.cs
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.cache
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.lref
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.baml
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.g.resources
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.Properties.Resources.resources
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.GenerateResource.cache
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.CoreCompileInputs.cache
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.dll
+C:\Me\BIM\C#\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.pdb
+C:\Me\Users\mark_\Desktop\RvtTestingCS_WPF.addin
+C:\Me\Users\mark_\Desktop\RvtTestingCS_WPF.dll
+C:\Me\Users\mark_\Desktop\RvtTestingCS_WPF.pdb
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csprojAssemblyReference.cache
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.g.cs
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.cache
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.lref
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.baml
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.g.resources
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.Properties.Resources.resources
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.GenerateResource.cache
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.CoreCompileInputs.cache
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.dll
+C:\Me\BIM\C#\WPF SS\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.pdb
+C:\Me\Users\mark_\AppData\Roaming\Autodesk\Revit\Addins\2021\RvtTestingCS_WPF.addin
+C:\Me\Users\mark_\AppData\Roaming\Autodesk\Revit\Addins\2021\RvtTestingCS_WPF.dll
+C:\Me\Users\mark_\AppData\Roaming\Autodesk\Revit\Addins\2021\RvtTestingCS_WPF.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2021\RvtTestingCS_WPF.addin
+C:\ProgramData\Autodesk\Revit\Addins\2021\RvtTestingCS_WPF.dll
+C:\ProgramData\Autodesk\Revit\Addins\2021\RvtTestingCS_WPF.pdb
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csprojAssemblyReference.cache
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.g.cs
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.cache
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.lref
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.dll
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.pdb
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.baml
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.g.resources
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.Properties.Resources.resources
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.GenerateResource.cache
+C:\Me\BIM\C#\WPFtest\RvtTestingCS_WPF\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.CoreCompileInputs.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csprojAssemblyReference.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.g.cs
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF_MarkupCompile.lref
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\NewBrowserPane.baml
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.g.resources
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.Properties.Resources.resources
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.GenerateResource.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.csproj.CoreCompileInputs.cache
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.dll
+C:\Me\BIM\C#\WPFtest\Working Side Bar buttons\RvtTestingCS_WPF\obj\Debug\RvtTestingCS_WPF.pdb
