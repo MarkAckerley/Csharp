@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  
+  <AddIn Type="Application">
+    <Name>RvtTests</Name>
+    <Assembly>InfoPanel.dll</Assembly>
+    <AddInId>69CFD0FA-493E-47BF-8D1A-1C14E2ECAF6E</AddInId>
+    <FullClassName>InfoPanel.App</FullClassName>
+    <Text>EntryPointClass</Text>
+    <VendorId>gdh5w7ydhw</VendorId>
+    <VendorDescription>MKA</VendorDescription>
+  </AddIn>
+
+  
+</RevitAddIns>
