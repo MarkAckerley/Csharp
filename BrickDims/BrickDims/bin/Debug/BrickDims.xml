@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BrickDims</name>
+    </assembly>
+    <members>
+        <member name="T:BrickDims.App">
+            <summary>
+            This is the main class which defines the Application, and inherits from Revit's
+            IExternalApplication class.
+            </summary>
+            
+        </member>
+        <member name="M:BrickDims.App.OnShutdown(Autodesk.Revit.UI.UIControlledApplication)">
+            <summary>
+            What to do when the application is shut down.
+            </summary>
+        </member>
+        <member name="M:BrickDims.App.ShowForm(Autodesk.Revit.UI.UIApplication)">
+            <summary>
+            This is the method which launches the WPF window, and injects any methods that are
+            wrapped by ExternalEventHandlers. This can be done in a number of different ways, and
+            implementation will differ based on how the WPF is set up.
+            </summary>
+            <param name="uiapp">The Revit UIApplication within the add-in will operate.</param>
+        </member>
+        <member name="M:BrickDims.App.a_Idling(System.Object,Autodesk.Revit.UI.Events.IdlingEventArgs)">
+            <summary>
+            What to do when the application is idling. (Ideally nothing)
+            </summary>
+        </member>
+        <member name="M:BrickDims.App.a_ApplicationClosing(System.Object,Autodesk.Revit.UI.Events.ApplicationClosingEventArgs)">
+            <summary>
+            What to do when the application is closing.)
+            </summary>
+        </member>
+        <member name="M:BrickDims.BrickDimUpdater.Execute(Autodesk.Revit.DB.UpdaterData)">
+            <summary>
+            Colour Code Dimensions
+            </summary>
+        </member>
+        <member name="M:BrickDims.BrickDimUpdater.GetChangePriority">
+            <summary>
+            Set the priority
+            </summary>
+        </member>
+        <member name="M:BrickDims.BrickDimUpdater.GetUpdaterId">
+            <summary>
+            Return the updater Id
+            </summary>
+        </member>
+        <member name="M:BrickDims.BrickDimUpdater.GetAdditionalInformation">
+            <summary>
+            Return the auxiliary string
+            </summary>
+        </member>
+        <member name="M:BrickDims.BrickDimUpdater.GetUpdaterName">
+            <summary>
+            Return the updater name
+            </summary>
+        </member>
+        <member name="T:BrickDims.EntryCommand">
+            <summary>
+            This is the ExternalCommand which gets executed from the ExternalApplication. In a WPF context,
+            this can be lean, as it just needs to show the WPF. Without a UI, this could contain the main
+            order of operations for executing the business logic.
+            </summary>
+        </member>
+        <member name="T:BrickDims.EventHandlerWithWpfArg">
+            <summary>
+            This is an example of of wrapping a method with an ExternalEventHandler using an instance of WPF
+            as an argument. Any type of argument can be passed to the RevitEventWrapper, and therefore be used in
+            the execution of a method which has to take place within a "Valid Revit API Context". This specific
+            pattern can be useful for smaller applications, where it is convenient to access the WPF properties
+            directly, but can become cumbersome in larger application architectures. At that point, it is suggested
+            to use more "low-level" wrapping, as with the string-argument-wrapped method above.
+            </summary>
+        </member>
+        <member name="M:BrickDims.EventHandlerWithWpfArg.Execute(Autodesk.Revit.UI.UIApplication,BrickDims.BrickDimSelector)">
+            <summary>
+            The Execute override void must be present in all methods wrapped by the RevitEventWrapper.
+            This defines what the method will do when raised externally.
+            </summary>
+        </member>
+        <member name="T:BrickDims.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:BrickDims.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:BrickDims.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:BrickDims.Properties.Resources._Error">
+            <summary>
+              Looks up a localized string similar to Error.
+            </summary>
+        </member>
+        <member name="T:BrickDims.RevitEventWrapper`1">
+            <summary>
+            Class for creating Argument (Wrapped) External Events
+            </summary>
+            <typeparam name="TType">The Class type being wrapped for the External Event Handler.</typeparam>
+        </member>
+        <member name="M:BrickDims.RevitEventWrapper`1.#ctor">
+            <summary>
+            Class for wrapping methods for execution within a "valid" Revit API context.
+            </summary>
+        </member>
+        <member name="M:BrickDims.RevitEventWrapper`1.Execute(Autodesk.Revit.UI.UIApplication)">
+            <summary>
+            Wraps the "Execution" method in a valid Revit API context.
+            </summary>
+            <param name="app">Revit UI Application to use as the "wrapper" API context.</param>
+        </member>
+        <member name="M:BrickDims.RevitEventWrapper`1.GetName">
+            <summary>
+            Get the name of the operation.
+            </summary>
+            <returns>Operation Name.</returns>
+        </member>
+        <member name="M:BrickDims.RevitEventWrapper`1.Raise(`0)">
+            <summary>
+            Execute the wrapped external event in a valid Revit API context.
+            </summary>
+            <param name="args">Arguments that could be passed to the execution method.</param>
+        </member>
+        <member name="M:BrickDims.RevitEventWrapper`1.Execute(Autodesk.Revit.UI.UIApplication,`0)">
+            <summary>
+            Override void which wraps the "Execution" method in a valid Revit API context.
+            </summary>
+            <param name="app">Revit UI Application to use as the "wrapper" API context.</param>
+            <param name="args">Arguments that could be passed to the execution method.</param>
+        </member>
+        <member name="T:BrickDims.BrickDimSelector">
+            <summary>
+            Interaction logic for UI.xaml
+            </summary>
+            <summary>
+            BrickDimSelector
+            </summary>
+        </member>
+        <member name="M:BrickDims.BrickDimSelector.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>
