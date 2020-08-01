@@ -1,8 +1,19 @@
 #region Namespaces
 
 using System;
+using System.Windows;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
+using System;
+using System.Reflection;
+using System.Windows;
+using System.Windows.Interop;
+using System.Windows.Media.Imaging;
+using Autodesk.Revit.Attributes;
+using Autodesk.Revit.DB;
+using Autodesk.Revit.UI;
+using Autodesk.Revit.UI.Events;
+
 
 #endregion
 
@@ -18,6 +29,7 @@ namespace InfoPanel
     [Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
     public class EntryCommand : IExternalCommand
     {
+        
         public virtual Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             try

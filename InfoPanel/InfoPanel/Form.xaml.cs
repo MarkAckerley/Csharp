@@ -21,6 +21,11 @@ namespace InfoPanel
 {
     public partial class NewForm : Page, IDockablePaneProvider
     {
+        public NewForm()
+        {
+            InitializeComponent();
+
+        }
 
         public void SetupDockablePane(DockablePaneProviderData data)
         {
@@ -32,11 +37,6 @@ namespace InfoPanel
             data.InitialState.TabBehind = Autodesk.Revit.UI.DockablePanes.BuiltInDockablePanes.ProjectBrowser;
         }
 
-        public NewForm()
-        {
-            InitializeComponent();
-
-        }
 
 
         /// Tab 1 These are the web pages which are not PDFs

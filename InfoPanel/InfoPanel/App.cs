@@ -15,6 +15,7 @@ using adWin = Autodesk.Windows;
 using Autodesk.Internal.Windows;
 using System.Windows.Media;
 using System.IO;
+using System.Windows;
 
 namespace InfoPanel
 {
@@ -26,7 +27,9 @@ namespace InfoPanel
         // class instance 
         public static App ThisApp;
 
-        public static NewForm myForm
+        FormToFrameWork myForm = null;
+
+        public static FormToFrameWork Form
         {
             get;
             set;
@@ -41,26 +44,27 @@ namespace InfoPanel
           
         }
 
+        
+
         public Result OnStartup(UIControlledApplication a)
         {
-            //Register dockable pane
-            NewForm Form = new NewForm();
-           // DockablePaneId paneId = new DockablePaneId(new Guid("9d7ed357-534f-4d87-afc4-8e784e3b119e"));
+            
+            FormToFrameWork Form = new FormToFrameWork();
 
-            myForm = Form;
 
             ThisApp = this;
 
             a.RegisterDockablePane(paneId, "Info", Form as IDockablePaneProvider);
+            
 
             // Method to add Tab and Panel 
             RibbonPanel panel = RibbonPanel(a);
             string thisAssemblyPath = Assembly.GetExecutingAssembly().Location;
-
             // BUTTON FOR THE DOCKABLE WPF
             if (panel.AddItem(
                 new PushButtonData("InfoPanel", "InfoPanel", thisAssemblyPath,
                     "InfoPanel.EntryCommand")) is PushButton button)
+            #region makepanel
             {
                 // defines the tooltip displayed when the button is hovered over in Revit's ribbon
                 button.ToolTip = "Turn Firm Info On/Off";
@@ -69,35 +73,57 @@ namespace InfoPanel
                 BitmapImage largeImage = new BitmapImage(uriImage);
                 button.LargeImage = largeImage;
             }
+            #endregion
 
-
-            //adWin.RibbonControl ribbon = adWin.ComponentManager.Ribbon;
-            //TabTheme.PanelBackgroundProperty = new SolidColorBrush(Colors.HotPink);
-
-
-            //foreach (adWin.RibbonTab tab in ribbon.Tabs)
-            //{
-            //    foreach (adWin.RibbonPanel panelT in tab.Panels)
-            //    {
-            //        panelT.CustomPanelTitleBarBackground
-            //          = new SolidColorBrush(Colors.HotPink);
-            //       panelT.CustomPanelBackground = new SolidColorBrush(Colors.HotPink);
-            //    }
-            //}
-
-            //myForm.Background = new SolidColorBrush(Colors.HotPink);
-            // myForm.IsVisible
-            //myForm.Foreground = new SolidColorBrush(Colors.HotPink);
-            //int op = 50;
-            //myForm.Opacity = op;
-
-
-            // listeners/watchers for external events (if you choose to use them)
-            a.ApplicationClosing += a_ApplicationClosing; //Set Application to Idling
-            a.Idling += a_Idling;
 
             return Result.Succeeded;
         }
+
+        public class FormToFrameWork : IDockablePaneProvider, IFrameworkElementCreator
+        {
+            NewForm m_MyDockableWindow = null;
+            public void SetupDockablePane(Autodesk.Revit.UI.DockablePaneProviderData data)
+            {
+                data.FrameworkElementCreator = this as IFrameworkElementCreator;
+                data.InitialState = new DockablePaneState();
+                data.InitialState.MinimumWidth = 300;
+                data.VisibleByDefault = false;
+                data.InitialState.DockPosition = DockPosition.Tabbed;
+                data.InitialState.TabBehind = DockablePanes.BuiltInDockablePanes.ProjectBrowser;
+            }
+
+            public FrameworkElement CreateFrameworkElement()
+            {
+                m_MyDockableWindow = new NewForm();
+                return m_MyDockableWindow;
+            }
+        }
+
+
+
+        //adWin.RibbonControl ribbon = adWin.ComponentManager.Ribbon;
+        //TabTheme.PanelBackgroundProperty = new SolidColorBrush(Colors.HotPink);
+
+
+        //foreach (adWin.RibbonTab tab in ribbon.Tabs)
+        //{
+        //    foreach (adWin.RibbonPanel panelT in tab.Panels)
+        //    {
+        //        panelT.CustomPanelTitleBarBackground
+        //          = new SolidColorBrush(Colors.HotPink);
+        //       panelT.CustomPanelBackground = new SolidColorBrush(Colors.HotPink);
+        //    }
+        //}
+
+        //myForm.Background = new SolidColorBrush(Colors.HotPink);
+        // myForm.IsVisible
+        //myForm.Foreground = new SolidColorBrush(Colors.HotPink);
+        //int op = 50;
+        //myForm.Opacity = op;
+
+
+        // listeners/watchers for external events (if you choose to use them)
+
 
         public Result OnShutdown(UIControlledApplication a)
         {
@@ -112,7 +138,7 @@ namespace InfoPanel
         /// <param name="uiapp">The Revit UIApplication within the add-in will operate.</param>
         public void ShowForm(ExternalCommandData commandData)
         {
-            DockablePane myForm = commandData.Application.GetDockablePane(paneId);
+            DockablePane myForm = commandData.Application.GetDockablePane(paneId) as DockablePane;
             // If we do not have a dialog yet, create and show it
             if (myForm != null && myForm == null) return;
             // The dialog becomes the owner responsible for disposing the objects given to it.

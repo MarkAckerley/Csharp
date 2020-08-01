@@ -62,7 +62,7 @@
                     <RowDefinition Height="30"></RowDefinition>
                     <RowDefinition></RowDefinition>
                 </Grid.RowDefinitions>
-                <Button  Command="NavigationCommands.BrowseBack" Grid.Column="0" Grid.Row= "0" Height="30" BorderThickness="0" Background="Transparent">
+                <Button Command="NavigationCommands.BrowseBack" Grid.Column="0" Grid.Row= "0" Height="30" BorderThickness="0" Background="Transparent">
                     <Image Source="pack://application:,,,/InfoPanel;component/Resources/chevron-left.png" Width="16" Height="16" />
                 </Button>
                 <Button Command="NavigationCommands.BrowseForward" Grid.Column="1" Grid.Row="0"  Height="30" BorderThickness="0" Background="Transparent">
